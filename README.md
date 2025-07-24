@@ -1,5 +1,5 @@
-# bobloxucator
-FOR EDUCATIONAL PURPOSE ONLY
+# FOR EDUCATIONAL PURPOSE ONLY
+
 🧠💻 Full Roadmap: Reverse Engineering + Cheat Tool Development
 📍 Stage 1: System Programming Fundamentals
 Topic	Goal
